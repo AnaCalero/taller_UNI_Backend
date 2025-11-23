@@ -344,6 +344,12 @@ npm run format             # Formatea el código con Prettier
 - **[Render](https://render.com/)** - Plataforma de despliegue
 
 ---
+# Taller UNI Backend
+
+Backend desplegado en Render para el taller de la universidad.
+
+## URL de la API
+https://taller-uni-backend-2-unk5.onrender.com
 
 ## Recursos Adicionales
 
