@@ -33,6 +33,7 @@ crud-api/
 
 ## Modelo de Datos
 
+
 ### Product
 
 | Campo     | Tipo     | Descripción                    |
